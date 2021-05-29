@@ -8,7 +8,7 @@ from skynoid import app, COMMAND_PREFIXES, AdminSettings, edit_or_reply, Owner
 from skynoid.plugins.database.lang_db import prev_locale
 
 
-__MODULE__ = 'Weather'
+__MODULE__ = '▲ Weather ▼'
 __HELP__ = """
 Get current weather in your location
 
