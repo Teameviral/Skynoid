@@ -15,8 +15,7 @@ from skynoid import IBM_WATSON_CRED_PASSWORD
 from skynoid import IBM_WATSON_CRED_URL
 from skynoid.plugins.downloads import download_reply_nocall
 
-__MODULE__ = '
-TTS / STT'
+__MODULE__ = '▲ TTS / STT ▼'
 __HELP__ = """
 Convert text to voice chat.
 
