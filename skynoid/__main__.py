@@ -102,7 +102,7 @@ async def except_hook(errtype, value, tback):
             callback_data='report_errors',
         ),
     )
-    text = 'An error has accured!\n\n```{}```\n'.format(''.join(errors))
+    text = 'An error has accured! Join @SkynoidSupport to get solution.\n\n```{}```\n'.format(''.join(errors))
     if errtype == ModuleNotFoundError:
         text += '\nHint: `pip install -r requirements.txt`'
     await setbot.send_message(Owner, text, reply_markup=keyboard)
