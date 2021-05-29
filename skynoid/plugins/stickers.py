@@ -23,7 +23,7 @@ from pyrogram import filters
 
 import asyncio
 
-__MODULE__ = 'Stickers'
+__MODULE__ = '▲ Stickers ▼'
 __HELP__ = """
 This module can help you steal sticker,
 just reply that sticker,
