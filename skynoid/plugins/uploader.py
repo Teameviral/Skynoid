@@ -9,7 +9,7 @@ from skynoid import app
 from skynoid import COMMAND_PREFIXES
 from skynoid import edit_or_reply
 
-__MODULE__ = 'Uploader'
+__MODULE__ = '▲ Uploader ▼'
 __HELP__ = """
 Reupload URL image to telegram without save it first.
 
