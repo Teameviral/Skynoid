@@ -17,7 +17,7 @@ if DB_AVAILABLE:
         restore_identity,
     )
 
-__MODULE__ = 'User'
+__MODULE__ = '▲ User ▼'
 __HELP__ = """
 Modules that interact with user
 
