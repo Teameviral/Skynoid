@@ -9,7 +9,7 @@ from skynoid import edit_or_reply
 from skynoid.utils.aiohttp_helper import AioHttp
 from skynoid.utils.string import replace_text
 
-__MODULE__ = 'Urban'
+__MODULE__ = '▲ Urban ▼'
 __HELP__ = """
 Search for urban dictionary
 
