@@ -7,7 +7,7 @@ from skynoid import app, COMMAND_PREFIXES, AdminSettings, edit_or_reply
 from skynoid.utils.Pyroutils import ReplyCheck
 
 
-__MODULE__ = 'Stickerizer'
+__MODULE__ = '▲ Stickerizer ▼'
 __HELP__ = """
 Module that uses inline Stickerizer bot!
 
