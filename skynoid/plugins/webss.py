@@ -8,7 +8,7 @@ from skynoid import COMMAND_PREFIXES
 from skynoid import edit_or_reply
 from skynoid import SCREENSHOTLAYER_API
 
-__MODULE__ = '▲ SS Website ▼'
+__MODULE__ = 'SS-Website'
 __HELP__ = """
 Take a picture of website. You can select one for use this.
 
