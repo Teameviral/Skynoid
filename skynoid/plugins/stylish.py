@@ -13,7 +13,7 @@ __HELP__ = """
 Convert your text to stylish text!
 
 Use this custom format:
-[Read](https://telegra.ph/Skynoid-Stylish-Help-05-29)
+[Read](https://telegra.ph/Nana-Remix-Stylish-Text-Helper-07-17)
 
 ──「 **Stylish Generator** 」──
 -> `stylish Your text here <upside>with</upside> <unline>style</unline>`
