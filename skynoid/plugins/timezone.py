@@ -9,7 +9,7 @@ from skynoid import COMMAND_PREFIXES
 from skynoid import edit_or_reply
 from skynoid import time_country
 
-__MODULE__ = 'Time'
+__MODULE__ = '▲ Time ▼'
 __HELP__ = """
 Modules that helps a user to get date and time
 here are the timezone list:
