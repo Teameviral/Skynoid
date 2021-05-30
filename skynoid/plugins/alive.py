@@ -50,6 +50,10 @@ async def alivemsg_callback(client, query):
     ping_time = round((end_time - start_time) * 1000, 3)
     reply_msg += f'Ping: {ping_time}ms\n'
     reply_msg += f'Uptime: {uptime}'
+    myid = (await app.get_me()).id
+    userid = query.from_user.id
+    if myid != userid:
+      return await client.answer_callback_query(query.id, "exit nikal lawde", show_alert=True)
     await client.answer_callback_query(query.id, reply_msg, show_alert=True)
 
 
